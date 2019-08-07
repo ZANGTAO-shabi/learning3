@@ -8,5 +8,5 @@ s=pi*(d/2)*(d/2)
 msgbox "The area of the circle is"&s&".",,"calculated(¦Ð=3.1415926535)"
 else
 s=pi*r*r
-msgbox"The area of the circle is"&s&".",,"calculated(¦Ð=3.1415926535)"
+msgbox "The area of the circle is"&s&".",,"calculated(¦Ð=3.1415926535)"
 end if
